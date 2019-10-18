@@ -1,0 +1,33 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cn.farm.Util.ImageUtil",
+      "name": "image",
+      "type": "cn.farm.Util.ImageUtil"
+    },
+    {
+      "sourceType": "cn.farm.Conf.DruidConf",
+      "name": "spring.datasource",
+      "sourceMethod": "druid()",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "cn.farm.Util.VideoUtil",
+      "name": "video",
+      "type": "cn.farm.Util.VideoUtil"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cn.farm.Util.ImageUtil",
+      "name": "image.base-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.farm.Util.VideoUtil",
+      "name": "video.base-path",
+      "type": "java.lang.String"
+    }
+  ]
+}

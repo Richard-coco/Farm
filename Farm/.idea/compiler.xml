@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="farm-gateway" />
+        <module name="farm-Common" />
+        <module name="Wx" />
+        <module name="farm-SysUsesr" />
+        <module name="farm-Eureka" />
+        <module name="farm-consumer" />
+        <module name="farm-expert" />
+        <module name="farm-ordinary" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="testSession" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Wx" options="-parameters" />
+      <module name="farm-Common" options="-parameters" />
+      <module name="farm-Eureka" options="-parameters" />
+      <module name="farm-SysUsesr" options="-parameters" />
+      <module name="farm-consumer" options="-parameters" />
+      <module name="farm-expert" options="-parameters" />
+      <module name="farm-gateway" options="-parameters" />
+      <module name="farm-ordinary" options="-parameters" />
+      <module name="testSession" options="-parameters" />
+    </option>
+  </component>
+</project>

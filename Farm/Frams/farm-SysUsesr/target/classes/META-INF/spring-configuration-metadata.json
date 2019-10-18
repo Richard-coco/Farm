@@ -1,0 +1,67 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "cn.farm.utils.DownLoadFiles",
+      "name": "file",
+      "type": "cn.farm.utils.DownLoadFiles"
+    },
+    {
+      "sourceType": "cn.farm.utils.ImageUtil",
+      "name": "image",
+      "type": "cn.farm.utils.ImageUtil"
+    },
+    {
+      "sourceType": "cn.farm.config.SwaggerConfig",
+      "name": "swagger",
+      "type": "cn.farm.config.SwaggerConfig"
+    },
+    {
+      "sourceType": "cn.farm.utils.VideoUtil",
+      "name": "video",
+      "type": "cn.farm.utils.VideoUtil"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cn.farm.utils.ImageUtil",
+      "name": "image.base-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.farm.config.SwaggerConfig",
+      "name": "swagger.description",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.farm.config.SwaggerConfig",
+      "name": "swagger.email",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.farm.config.SwaggerConfig",
+      "name": "swagger.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.farm.config.SwaggerConfig",
+      "name": "swagger.title",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.farm.config.SwaggerConfig",
+      "name": "swagger.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.farm.config.SwaggerConfig",
+      "name": "swagger.version",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "cn.farm.utils.VideoUtil",
+      "name": "video.base-path",
+      "type": "java.lang.String"
+    }
+  ]
+}

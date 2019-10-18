@@ -1,0 +1,26 @@
+###服务启动端口号
+server:
+  port: 9999
+  servlet:
+    context-path: /wxApp
+
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka10086.com:10086/eureka
+
+spring:
+
+  application:
+    name: farm-WxApp
+
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: WeGame
+    url: jdbc:mysql://114.67.79.57:3306/notime?useUnicode=true&characterEncoding=utf8&useSSL=false&characterSetResults=utf-8&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    type: com.alibaba.druid.pool.DruidDataSource
+
+

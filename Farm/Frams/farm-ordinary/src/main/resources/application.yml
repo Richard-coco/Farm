@@ -1,0 +1,63 @@
+###服务启动端口号
+server:
+  port: 9002
+  servlet:
+    context-path: /farm/ordinary
+###服务名称(服务注册到eureka名称)
+spring:
+  application:
+    name: farm-ordinary
+
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: WeGame
+    url: jdbc:mysql://114.67.79.57:3306/notime?useUnicode=true&characterEncoding=utf8&useSSL=false&characterSetResults=utf-8&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    type: com.alibaba.druid.pool.DruidDataSource
+    initialSize: 5
+    minIdle: 5
+    maxActive: 20
+    maxWait: 60000
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: SELECT 1 FROM DUAL
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    poolPreparedStatements: true
+  redis:
+    timeout: 10000
+  servlet:
+    multipart:
+      enabled: true
+      max-file-size: 30MB
+      max-request-size: 100MB
+
+###服务注册到eureka地址
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka10086.com:10086/eureka
+
+  # 心跳检测检测与续约时间
+  # 测试时将值设置设置小些，保证服务关闭后注册中心能及时踢出服务
+  instance:
+    ###Eureka客户端向服务端发送心跳的时间间隔，单位为秒（客户端告诉服务端自己会按照该规则）
+    lease-renewal-interval-in-seconds: 1
+    ####Eureka服务端在收到最后一次心跳之后等待的时间上限，单位为秒，超过则剔除（客户端告诉服务端按照此规则等待自己）
+    lease-expiration-duration-in-seconds: 2
+    instance-id: ordinary-9002
+    prefer-ip-address: true
+
+
+image:
+  basePath: C://Users//Administrator//Desktop//testImage//
+  #C://Users//IBM//Desktop//target//Farm//Frams//images//
+video:
+  basePath: C://Users//Administrator//Desktop//testImage//
+
+
+ribbon:
+  ConnectTimeout: 20000
+  ReadTimeout: 20000
+

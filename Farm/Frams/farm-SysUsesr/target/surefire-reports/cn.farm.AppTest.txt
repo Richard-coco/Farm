@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: cn.farm.AppTest
+-------------------------------------------------------------------------------
+<<<<<<< Updated upstream
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.022 s - in cn.farm.AppTest
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.081 s - in cn.farm.AppTest
+>>>>>>> Stashed changes

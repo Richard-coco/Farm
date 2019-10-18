@@ -1,0 +1,1193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="220b8b78-247f-4c48-a4fe-9b596ed0a146" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Farm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-Common/target/farm-Common-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-Common/target/farm-Common-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-Common/target/test-classes/cn/farm/CommonApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-Common/target/test-classes/cn/farm/CommonApplicationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/SysUserApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/SysUserApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/config/SwaggerConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/config/SwaggerConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/config/WebMvcConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/config/WebMvcConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/AbioticStressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/AbioticStressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/AnalysisController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/AnalysisController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/CropController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/CropController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/DiagnosisController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/DiagnosisController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/DiseaseStressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/DiseaseStressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/EnemyController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/EnemyController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/InformationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/InformationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/InquiryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/InquiryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/MessageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/MessageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/ModelController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/ModelController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/PestStressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/PestStressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/ProtectionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/ProtectionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/QuestionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/QuestionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/RuleController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/RuleController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/SpectralController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/SpectralController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/StressFeatureController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/StressFeatureController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/WeedStressController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/controller/WeedStressController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Abioticstress.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Abioticstress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Analysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Analysis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Answer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Answer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/BaseEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/BaseEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Biologycategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Biologycategory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Diagnosis.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Diagnosis.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Diseasestress.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Diseasestress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Enemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Information.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Information.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Inquiry.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Inquiry.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Match_Image.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Match_Image.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Peststress.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Peststress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Plant.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Plant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Protection.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Protection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Question.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Question.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Rule.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Rule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Spectral.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Spectral.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Stresscategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Stresscategory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Stressfeature.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Stressfeature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/TpRegion2.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/TpRegion2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Video.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Video.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Weedstress.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/entity/Weedstress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataAddException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataAddException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataDeleteException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataDeleteException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataFindException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataFindException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataUpdateException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/DataUpdateException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/FileException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/FileException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/ImageAddException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/ImageAddException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/NotImageException.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/exception/NotImageException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/AbioticStressMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/AbioticStressMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/AnalysisMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/AnalysisMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/BiologyMapperSql.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/BiologyMapperSql.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/DiagnosisMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/DiagnosisMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/DiseaseStressMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/DiseaseStressMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/EnemyMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/EnemyMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/ImageMapperSql.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/ImageMapperSql.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/InformationMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/InformationMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/InquiryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/InquiryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/MatchImageMapperSql.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/MatchImageMapperSql.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/MessageMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/MessageMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/ModelMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/ModelMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/PestStressMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/PestStressMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/PlantMapperSql.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/PlantMapperSql.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/ProtectionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/ProtectionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/QuestionMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/QuestionMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/RuleMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/RuleMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/SpectralMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/SpectralMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/StressCategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/StressCategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/StressFeatureMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/StressFeatureMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/VideoMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/VideoMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/WeedStressMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/mapper/WeedStressMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/AbioticStressService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/AbioticStressService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/AnalysisService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/AnalysisService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/BiologyCategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/BiologyCategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/CropService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/CropService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/DiagnosisService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/DiagnosisService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/DiseaseStressService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/DiseaseStressService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/EnemyService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/EnemyService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/ImageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/ImageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/InformationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/InformationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/InquiryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/InquiryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/Match_ImageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/Match_ImageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/MessageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/MessageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/ModelService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/ModelService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/PestStressService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/PestStressService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/ProtectionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/ProtectionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/QuestionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/QuestionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/RuleService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/RuleService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/SpectralService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/SpectralService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/StressCategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/StressCategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/StressFeatureService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/StressFeatureService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/VideoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/VideoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/WeedStressService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/WeedStressService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/AbioticStressServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/AbioticStressServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/AnalysisServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/AnalysisServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/BiologyCategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/BiologyCategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/CropServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/CropServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/DiagnosisServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/DiagnosisServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/DiseaseStressServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/DiseaseStressServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/EnemyServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/EnemyServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/ImageServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/ImageServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/InformationServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/InformationServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/InquiryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/InquiryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/Match_ImageServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/Match_ImageServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/MessageServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/MessageServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/ModelServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/ModelServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/PestStressServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/PestStressServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/ProtectionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/ProtectionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/QuestionServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/QuestionServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/RuleServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/RuleServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/SpectralServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/SpectralServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/StressCategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/StressCategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/StressFeatureServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/StressFeatureServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/VideoServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/VideoServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/WeedStressServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/service/impl/WeedStressServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/CommonResult.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/CommonResult.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Determiner/Determiner.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Determiner/Determiner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Determiner/ImageDeterminer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Determiner/ImageDeterminer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/DownLoadFiles.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/DownLoadFiles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/FileUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/FileUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/ImageUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/ImageUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/ResultCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/ResultCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/AbioticStressTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/AbioticStressTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/DiseaseStressTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/DiseaseStressTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/EnenmyTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/EnenmyTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/InformationTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/InformationTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/InquiryTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/InquiryTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/PestStressTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/PestStressTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/PlantTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/PlantTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/QuestionTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/QuestionTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/Translation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/Translation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/UserTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/UserTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/VideoTranslate/InformationVideoTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/VideoTranslate/InformationVideoTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/VideoTranslate/InquiryVideoTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/VideoTranslate/InquiryVideoTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/WeedStressTranslation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/Translation/WeedStressTranslation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/VideoUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-SysUsesr/target/classes/cn/farm/utils/VideoUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/QuestionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/QuestionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-consumer/target/classes/cn/farm/Controller/ExpertController/QuestionController.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-consumer/target/classes/cn/farm/Controller/ExpertController/QuestionController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-consumer/target/classes/cn/farm/login/Controller/AliyunSmsUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-consumer/target/classes/cn/farm/login/Controller/AliyunSmsUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frams/farm-expert/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Frams/farm-expert/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/Frams/target/" />
+    <ignored path="$PROJECT_DIR$/Frams/farm-SysUsesr/target/" />
+    <ignored path="$PROJECT_DIR$/Frams/farm-ordinary/target/" />
+    <ignored path="$PROJECT_DIR$/Frams/farm-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/Frams/farm-Eureka/target/" />
+    <ignored path="$PROJECT_DIR$/Frams/farm-Common/target/" />
+    <ignored path="$PROJECT_DIR$/Frams/farm-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/Frams/farm-expert/target/" />
+    <ignored path="$PROJECT_DIR$/Frams/testSession/target/" />
+    <ignored path="$PROJECT_DIR$/Frams/Wx/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/QuestionController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="789">
+              <caret line="85" column="54" lean-forward="true" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Config/Config.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Config/Myconfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Config/RedisConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="819">
+              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/dengerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/enemyController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/plantController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/protectController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="777">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Message/ListMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Frams/Wx/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>mysql</find>
+      <find>page</find>
+      <find>list</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Entity/SysUser/Weedstress.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Entity/SysUser/Stressfeature.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Util/FileUtil.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Entity/SysUser/Spectral.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-SysUsesr/src/main/java/cn/farm/controller/SpectralController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-ordinary/src/main/java/cn/farm/Controller/PythonController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/login/enums/CodeStateEnum.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-ordinary/src/main/java/cn/farm/Controller/InformationController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-ordinary/src/main/java/cn/farm/Controller/SolrController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-SysUsesr/pom.xml" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/login/Controller/AliyunSmsUtils.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-SysUsesr/src/main/java/cn/farm/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/SysUserController/UserController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/SysUserController/WeedStressController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/SysUserController/StressFeatureController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/RuleController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/SysUserController/SpectralController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/expert/controller/ModelController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/OrdinaryController/SolrController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Frams/farm-Common/src/main/java/cn/farm/Controller/CommonController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Aop/JSessionDispenser.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExceptionController/ExceptionController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/login/Controller/CommonController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-Common/src/main/java/cn/farm/Controller/plantController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/plantController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-Common/src/main/java/cn/farm/Controller/dengerController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/dengerController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-Common/src/main/java/cn/farm/Controller/enemyController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/enemyController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-Common/src/main/java/cn/farm/Controller/protectController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/protectController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-Common/pom.xml" />
+        <option value="$PROJECT_DIR$/Frams/farm-SysUsesr/src/main/java/cn/farm/controller/RuleController.java" />
+        <option value="$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Message/Common.java" />
+        <option value="$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Message/ListMessage.java" />
+        <option value="$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/App.java" />
+        <option value="$PROJECT_DIR$/Frams/Wx/pom.xml" />
+        <option value="$PROJECT_DIR$/Frams/Wx/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Entity/SwiperList.java" />
+        <option value="$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Entity/Information.java" />
+        <option value="$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Controller/TestController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/InformationController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/ModelController.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-expert/pom.xml" />
+        <option value="$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/ExpertApplication.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/login/service/OrdinaryService.java" />
+        <option value="$PROJECT_DIR$/Frams/farm-expert/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/QuestionController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Farms" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="390" />
+    <option name="y" value="7" />
+    <option name="width" value="1383" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Farm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farm" type="462c0819:PsiDirectoryNode" />
+              <item name="Frams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farm" type="462c0819:PsiDirectoryNode" />
+              <item name="Frams" type="462c0819:PsiDirectoryNode" />
+              <item name="farm-Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farm" type="462c0819:PsiDirectoryNode" />
+              <item name="Frams" type="462c0819:PsiDirectoryNode" />
+              <item name="farm-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farm" type="462c0819:PsiDirectoryNode" />
+              <item name="Frams" type="462c0819:PsiDirectoryNode" />
+              <item name="farm-Eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farm" type="462c0819:PsiDirectoryNode" />
+              <item name="Frams" type="462c0819:PsiDirectoryNode" />
+              <item name="farm-expert" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farm" type="462c0819:PsiDirectoryNode" />
+              <item name="Frams" type="462c0819:PsiDirectoryNode" />
+              <item name="farm-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farm" type="462c0819:PsiDirectoryNode" />
+              <item name="Frams" type="462c0819:PsiDirectoryNode" />
+              <item name="farm-ordinary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Farm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Farm" type="462c0819:PsiDirectoryNode" />
+              <item name="Frams" type="462c0819:PsiDirectoryNode" />
+              <item name="farm-SysUsesr" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Frams/Wx/src/main" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.farm.Entity.SysUser" />
+      <recent name="cn.farm.Aop" />
+      <recent name="cn.farm.Entity.Ordinary" />
+      <recent name="cn.farm.MessageModel.Ordinary" />
+      <recent name="cn.farm.Entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\target\Farm\Frams\Wx\src\main" />
+      <recent name="C:\Users\Administrator\Desktop\target\Farm\Frams\farm-consumer\src\main\java\cn\farm" />
+      <recent name="C:\Users\Administrator\Desktop\target\Farm\Frams\farm-consumer" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.14728262" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.ExpertApplication">
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Wx" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.farm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.farm.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="farm-Common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.farm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.farm.CommonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="farm-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.farm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.farm.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="farm-Eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.farm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.farm.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExpertApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="farm-expert" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.farm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.farm.ExpertApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.CommonApplication" />
+      <item itemvalue="Spring Boot.App" />
+      <item itemvalue="Spring Boot.ExpertApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="Spring Boot.ExpertApplication" />
+        <item itemvalue="Spring Boot.EurekaApplication" />
+        <item itemvalue="Spring Boot.CommonApplication" />
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="220b8b78-247f-4c48-a4fe-9b596ed0a146" name="Default Changelist" comment="" />
+      <created>1566038249829</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566038249829</updated>
+      <workItem from="1566038251366" duration="743000" />
+      <workItem from="1566039003418" duration="1170000" />
+      <workItem from="1566040522083" duration="18950000" />
+      <workItem from="1566105304258" duration="4792000" />
+      <workItem from="1566797546576" duration="699000" />
+      <workItem from="1567232895953" duration="59000" />
+      <workItem from="1567384891870" duration="2403000" />
+      <workItem from="1567407377808" duration="5461000" />
+      <workItem from="1567607770698" duration="2083000" />
+      <workItem from="1567681288254" duration="11092000" />
+      <workItem from="1567737918307" duration="5063000" />
+      <workItem from="1568000221179" duration="10805000" />
+      <workItem from="1568013201872" duration="16610000" />
+      <workItem from="1568087551068" duration="15483000" />
+      <workItem from="1568125598724" duration="654000" />
+      <workItem from="1568126257668" duration="1657000" />
+      <workItem from="1568199907680" duration="1380000" />
+      <workItem from="1568213852751" duration="247000" />
+      <workItem from="1568260075714" duration="3606000" />
+      <workItem from="1568603068088" duration="7749000" />
+      <workItem from="1568710825254" duration="812000" />
+      <workItem from="1568727070413" duration="1587000" />
+      <workItem from="1568729877472" duration="3176000" />
+      <workItem from="1568766256119" duration="601000" />
+      <workItem from="1568852657256" duration="7205000" />
+      <workItem from="1568972349259" duration="11850000" />
+      <workItem from="1569134603163" duration="20037000" />
+      <workItem from="1569213334006" duration="19008000" />
+      <workItem from="1569244609480" duration="13000" />
+      <workItem from="1569244663859" duration="1153000" />
+      <workItem from="1569413717820" duration="1942000" />
+      <workItem from="1569415912915" duration="133000" />
+      <workItem from="1569416051468" duration="2062000" />
+      <workItem from="1569470138166" duration="20534000" />
+      <workItem from="1569550062410" duration="1740000" />
+      <workItem from="1569554606547" duration="14186000" />
+      <workItem from="1569583042320" duration="638000" />
+      <workItem from="1569585552662" duration="1653000" />
+      <workItem from="1569632381268" duration="8106000" />
+      <workItem from="1569750178513" duration="1330000" />
+      <workItem from="1569752121173" duration="161000" />
+      <workItem from="1569752309813" duration="5504000" />
+      <workItem from="1569757862978" duration="8096000" />
+      <workItem from="1569824886315" duration="4352000" />
+      <workItem from="1569915142850" duration="2267000" />
+      <workItem from="1570412805498" duration="2119000" />
+      <workItem from="1570421647259" duration="6903000" />
+      <workItem from="1570521740300" duration="177000" />
+      <workItem from="1570709153528" duration="97000" />
+      <workItem from="1570709364692" duration="353000" />
+      <workItem from="1570709776722" duration="1337000" />
+      <workItem from="1570711369485" duration="1079000" />
+      <workItem from="1570755855128" duration="712000" />
+      <workItem from="1570758432399" duration="4666000" />
+      <workItem from="1570786506379" duration="10972000" />
+      <workItem from="1570941122487" duration="1485000" />
+      <workItem from="1570952723000" duration="341000" />
+      <workItem from="1570956073256" duration="269000" />
+      <workItem from="1571028652964" duration="5940000" />
+      <workItem from="1571038861595" duration="379000" />
+      <workItem from="1571039592824" duration="1519000" />
+      <workItem from="1571042063892" duration="55000" />
+      <workItem from="1571055895036" duration="2642000" />
+      <workItem from="1571190335824" duration="1204000" />
+      <workItem from="1571193578441" duration="97000" />
+      <workItem from="1571193725026" duration="3746000" />
+      <workItem from="1571233368784" duration="1124000" />
+      <workItem from="1571295526614" duration="4907000" />
+      <workItem from="1571368756899" duration="2337000" />
+    </task>
+    <task id="LOCAL-00001" summary="2019-10-14&#10;公共模块开始测试">
+      <created>1571039144959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571039144959</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2019-10-14&#10;公共模块开始测试">
+      <created>1571039172911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571039172911</updated>
+    </task>
+    <task id="LOCAL-00003" summary="专家模块 配置文件修改完成2019-10-14">
+      <created>1571040507999</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571040507999</updated>
+    </task>
+    <task id="LOCAL-00004" summary="common模块测试完成2019-10-16">
+      <created>1571194383096</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571194383096</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="303312000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="2576" height="1426" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Web" order="1" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.14792663" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20921156" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286495" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Spring" order="10" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.501606" side_tool="true" weight="0.15526602" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.24355972" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.498394" visible="true" weight="0.17642467" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.13397129" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.08692185" />
+      <window_info anchor="right" id="Bean Validation" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2019-10-14&#10;公共模块开始测试" />
+    <MESSAGE value="专家模块 配置文件修改完成2019-10-14" />
+    <MESSAGE value="common模块测试完成2019-10-16" />
+    <option name="LAST_COMMIT_MESSAGE" value="common模块测试完成2019-10-16" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Frams/farm-ordinary/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Entity/Information.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/expert/domain/MatchImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/expert/controller/LogTestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Entity/SwiperImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/App.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-ordinary/src/main/java/cn/farm/OrdinaryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Message/Common.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExceptionController/ExceptionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/expert/utils/MyUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2436">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/RuleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="108" column="43" selection-start-line="108" selection-start-column="43" selection-end-line="108" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/expert/controller/ModelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-651">
+          <caret line="46" column="20" lean-forward="true" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/expert/service/serviceImpl/ManagementServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="42" column="22" lean-forward="true" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/expert/service/ManagementService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="25" column="46" lean-forward="true" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/expert/controller/ManagementController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1533">
+          <caret line="177" column="53" selection-start-line="177" selection-start-column="53" selection-end-line="177" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/ModelController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1722">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/expert/domain/JsonData1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/login/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.0.1/mapper-base-1.0.1.jar!/tk/mybatis/mapper/common/example/SelectByExampleMapper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/InformationController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="90" column="12" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/login/service/OrdinaryService.java" />
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/login/pojo/User.java" />
+    <entry file="file://$PROJECT_DIR$/Frams/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1932">
+          <caret line="92" column="56" selection-start-line="92" selection-start-column="56" selection-end-line="92" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-ordinary/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" column="79" selection-start-line="30" selection-start-column="79" selection-end-line="30" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-SysUsesr/src/main/java/cn/farm/controller/AbioticStressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/java/cn/farm/ExpertApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/ConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-expert/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="54" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-Eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-ordinary/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-Common/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/login/Controller/AliyunSmsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/login/Controller/CommonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="147">
+            <caret line="7" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/OrdinaryController/InforController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/OrdinaryController/QuestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/OrdinaryController/SolrController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="40" column="78" selection-start-line="40" selection-start-column="78" selection-end-line="40" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/ExpertController/QuestionController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="789">
+          <caret line="85" column="54" lean-forward="true" selection-start-line="85" selection-start-column="54" selection-end-line="85" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Config/Myconfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/dengerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/enemyController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/plantController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/farm-consumer/src/main/java/cn/farm/Controller/CommonController/protectController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/Wx/src/main/java/cn/farm/Message/ListMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Frams/Wx/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Wx</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

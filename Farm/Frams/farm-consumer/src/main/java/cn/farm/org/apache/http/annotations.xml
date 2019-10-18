@@ -1,0 +1,5 @@
+<root>
+    <item name='org.apache.http.HttpHeaders'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>

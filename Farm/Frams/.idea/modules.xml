@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Farms.iml" filepath="$PROJECT_DIR$/Farms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/farm-Common/farm-Common.iml" filepath="$PROJECT_DIR$/farm-Common/farm-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/farm-Eureka/farm-Eureka.iml" filepath="$PROJECT_DIR$/farm-Eureka/farm-Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/farm-SysUsesr/farm-SysUsesr.iml" filepath="$PROJECT_DIR$/farm-SysUsesr/farm-SysUsesr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/farm-expert/farm-expert.iml" filepath="$PROJECT_DIR$/farm-expert/farm-expert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/farm-gateway/farm-gateway.iml" filepath="$PROJECT_DIR$/farm-gateway/farm-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/farm-ordinary/farm-ordinary.iml" filepath="$PROJECT_DIR$/farm-ordinary/farm-ordinary.iml" />
+    </modules>
+  </component>
+</project>
